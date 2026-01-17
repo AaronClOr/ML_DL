@@ -1,1 +1,1 @@
-# This repo is for showing different implementation of ML/DL algorithms
+## This repo is for showing different implementation of Machine Learning and Deep Learning algorithms
