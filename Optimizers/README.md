@@ -10,5 +10,5 @@ This project demonstrates the mathematical foundations of various optimization a
 5. **Adadelta**: An extension of Adagrad that seeks to reduce its aggressive, monotonically decreasing learning rate. Instead of accumulating all past squared gradients, Adadelta restricts the window of accumulated past gradients to a fixed size using a decaying average of squared gradients.
 6. **SGD + Nesterov Momentum**: A "look-ahead" version of momentum. Instead of calculating the gradient at the current position, it calculates the gradient at the point where the previous momentum would have taken the parameters, allowing for faster correction and reduced overshooting.
 
-![loss comparision](loss_comparision.png)
+![loss comparison](loss_comparison.png)
 
